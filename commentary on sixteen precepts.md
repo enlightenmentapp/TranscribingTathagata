@@ -3,7 +3,7 @@
 
 ~ 40:00 Sixteen Precepts
 
-S: Buddha gave precepts. Master also gave sixteen precepts.
+S: Buddha gave precepts. Master also gave [sixteen precepts](https://github.com/enlightenmentapp/Translations/blob/master-tmp/TATHAGATA%20-%20Teaching%20-%20Precepts/Precepts%20translated%20by%20J_lee_77777.txt).
 
 Satto: Sixteen precepts?
 
